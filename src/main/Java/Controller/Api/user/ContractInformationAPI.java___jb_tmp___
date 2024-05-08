@@ -1,0 +1,4 @@
+package Controller.Api.user;
+
+public class ContractInformationAPI {
+}
